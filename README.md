@@ -6,5 +6,5 @@ Our project will focus on determining which area in Austin will be more profitab
 
 ## Possible Sources/Data We Will Be Working With
 
-For our project we will be working with various databases and APIs which we believe will be reliable in addition to giving us high-quality data to work with. For example, we will using a FBI Crime Data API from data.gov to visualize crime rates, Zillow.com APIs to determine the average price per square foot of homes, and greatschools.org API to analyze the yearly rating of schools in our zip codes. 
+For our project we will be working with various databases and APIs which we believe will be reliable in addition to giving us high-quality data to work with. For example, we will using a FBI Crime Data API from data.gov to visualize crime rates, Zillow.com APIs to determine the average price per square foot of homes, and an API from greatschools.org to analyze the yearly rating of schools in our zip codes. 
 
