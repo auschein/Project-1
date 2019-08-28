@@ -1,0 +1,48 @@
+schoolName,street,Zipcode,city,locale,lowGrade,highGrade,schoolLevel,isCharterSchool,isMagnetSchool,isPrivate,year,rank,rankOf,rankStars,rankLevel,rankStatewidePercentage,averageStandardScore
+Austin Oaks,1407 W Stassney Ln,78745,Austin,City: Large,2,12,Other,Yes,No,False,2019,1210,1839,2,High,34.2,35.60463
+Bedichek Middle,6800 Bill Hughes Rd,78745,Austin,City: Large,6,8,Middle,No,No,False,2019,1716,2122,1,Middle,19.13,24.57674
+Bedichek Middle,6800 Bill Hughes Rd,78745,Austin,City: Large,6,8,Middle,No,No,False,2018,1642,2080,1,Middle,21.06,26.39313
+Crockett High School,5601 Manchaca Rd,78745,Austin,City: Large,9,12,High,No,No,False,2019,1204,1839,2,High,34.53,35.9112
+Crockett High School,5601 Manchaca Rd,78745,Austin,City: Large,9,12,High,No,No,False,2018,1141,1797,2,High,36.51,36.17743
+Cunningham Elementary,2200 Berkeley Ave,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2787,4421,2,Elementary,36.96,37.82789
+Cunningham Elementary,2200 Berkeley Ave,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2018,2906,4359,2,Elementary,33.33,34.49964
+Joslin Elementary,4500 Manchaca Rd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2980,4421,2,Elementary,32.59,34.99412
+Joslin Elementary,4500 Manchaca Rd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2018,2877,4359,2,Elementary,34.0,35.0222
+Odom Elementary,1010 Turtle Creek Blvd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2019,3567,4421,1,Elementary,19.32,25.35704
+Odom Elementary,1010 Turtle Creek Blvd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2018,2840,4359,2,Elementary,34.85,35.47161
+Pleasant Hill Elementary,6405 Cir S Rd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2019,3631,4421,1,Elementary,17.87,24.17366
+Pleasant Hill Elementary,6405 Cir S Rd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2018,2651,4359,2,Elementary,39.18,38.47231
+St Elementarymo Elementary,600 W St Elmo Rd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2929,4421,2,Elementary,33.75,35.82444
+St Elementarymo Elementary,600 W St Elmo Rd,78745,Austin,City: Large,PK,5,Elementary,No,No,False,2018,2029,4359,3,Elementary,53.45,49.12429
+Sunset Valley Elementary,3000 Jones Rd,78745,Austin,Suburb: Large,PK,5,Elementary,No,No,False,2019,1809,4421,3,Elementary,59.08,53.4864
+Sunset Valley Elementary,3000 Jones Rd,78745,Austin,Suburb: Large,PK,5,Elementary,No,No,False,2018,2041,4359,3,Elementary,53.18,48.94035
+Tnc Campus (Texas Neurorehabilitation Center),1106 W Dittmar Rd,78745,Austin,City: Large,2,12,Other,Yes,No,False,2019,2119,2122,0,Middle,0.14,1.65332
+Tnc Campus (Texas Neurorehabilitation Center),1106 W Dittmar Rd,78745,Austin,City: Large,2,12,Other,Yes,No,False,2018,4357,4359,0,Elementary,0.05,1.05742
+Wayside Eden Park Academy,6215 Manchaca Rd,78745,Austin,City: Large,PK,5,Elementary,Yes,No,False,2019,1199,4421,4,Elementary,72.88,65.94851
+Wayside Eden Park Academy,6215 Manchaca Rd,78745,Austin,City: Large,PK,5,Elementary,Yes,No,False,2018,1345,4359,3,Elementary,69.14,62.93787
+Austin Can Academy,2406 Rosewood Ave,78702,Austin,City: Large,9,12,High,Yes,No,False,2019,1722,1839,0,High,6.36,5.27957
+Austin Can Academy,2406 Rosewood Ave,78702,Austin,City: Large,9,12,High,Yes,No,False,2018,1661,1797,0,High,7.57,6.65586
+Blackshear Elementary,1712 E 11th St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2689,4421,2,Elementary,39.18,39.19633
+Blackshear Elementary,1712 E 11th St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,1498,4359,3,Elementary,65.63,59.7982
+Brooke Elementary,3100 E 4th St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2913,4421,2,Elementary,34.11,36.00948
+Brooke Elementary,3100 E 4th St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,3339,4359,1,Elementary,23.4,27.70895
+Garza Independence High School,1600 Chicon,78702,Austin,City: Large,11,12,High,No,No,False,2019,1403,1839,1,High,23.71,26.05054
+Garza Independence High School,1600 Chicon,78702,Austin,City: Large,11,12,High,No,No,False,2018,763,1797,3,High,57.54,51.25468
+George M Kozmetsky School,2200 E 6th St,78702,Austin,City: Large,K,5,Elementary,Yes,No,False,2015,1695,1743,0,High,2.75,1.85975
+George M Kozmetsky School,2200 E 6th St,78702,Austin,City: Large,K,5,Elementary,Yes,No,False,2014,4232,4260,0,Elementary,0.66,3.58133
+Govalle Elementary,3601 Govalle Ave,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,4058,4421,0,Elementary,8.21,15.93383
+Govalle Elementary,3601 Govalle Ave,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,3694,4359,1,Elementary,15.26,21.99054
+Kealing Middle School,1607 Pennsylvania Ave,78702,Austin,City: Large,6,8,Middle,No,No,False,2019,88,2122,5,Middle,95.85,93.51661
+Kealing Middle School,1607 Pennsylvania Ave,78702,Austin,City: Large,6,8,Middle,No,No,False,2018,68,2080,5,Middle,96.73,95.42071
+Martin Middle,1601 Haskell St,78702,Austin,City: Large,6,8,Middle,No,No,False,2019,2016,2122,0,Middle,5.0,10.92089
+Martin Middle,1601 Haskell St,78702,Austin,City: Large,6,8,Middle,No,No,False,2018,1931,2080,0,Middle,7.16,14.66623
+Metz Elementary,84 Robert Martinez Jr St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,3232,4421,1,Elementary,26.89,30.89741
+Metz Elementary,84 Robert Martinez Jr St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,4016,4359,0,Elementary,7.87,15.78527
+Oak Springs Elementary,3601 Webberville Rd,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,3942,4421,1,Elementary,10.83,18.57494
+Oak Springs Elementary,3601 Webberville Rd,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,4315,4359,0,Elementary,1.01,6.12924
+Sanchez Elementary,73 San Marcos St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2688,4421,2,Elementary,39.2,39.23702
+Sanchez Elementary,73 San Marcos St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,1865,4359,3,Elementary,57.21,52.66538
+University Of Texas El Charter School,2200 E 6th St,78702,Austin,City: Large,PK,5,Elementary,Yes,No,False,2019,1155,4421,4,Elementary,73.87,67.21807
+University Of Texas El Charter School,2200 E 6th St,78702,Austin,City: Large,PK,5,Elementary,Yes,No,False,2018,1979,4359,3,Elementary,54.6,50.10517
+Zavala Elementary,310 Robert Martinez Jr St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2019,2381,4421,2,Elementary,46.14,44.10572
+Zavala Elementary,310 Robert Martinez Jr St,78702,Austin,City: Large,PK,5,Elementary,No,No,False,2018,3085,4359,1,Elementary,29.23,31.64664
